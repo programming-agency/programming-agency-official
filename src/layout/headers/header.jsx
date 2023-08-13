@@ -43,10 +43,10 @@ const Header = ({style_home_one}) => {
             <div className="container-fluid">
                <div className="mega-menu-wrapper">
                   <div className="row align-items-center">
-                     <div className="col-xxl-2 col-xl-2 col-6">
+                     <div className="col-xxl-4 col-xl-2 col-6">
                         <div className="logo border-right">
                            <Link href="/">
-                              <img style={{height: '100px', padding: '20px'}} src="/assets/img/logo/logo.png" alt="logo" />
+                              <img style={{height: '100px', padding: '20px'}} src="/assets/img/logo/Logo-long.png" alt="logo" />
                            </Link>
                         </div>
                      </div>
@@ -57,9 +57,9 @@ const Header = ({style_home_one}) => {
                            </nav>
                         </div>
                      </div>
-                     <div className="col-xxl-4 col-xl-3 d-xl-block col-md-6 col-6">
+                     <div className="col-xxl-2 col-xl-3 d-xl-block col-md-6 col-6">
                         <div className="tp-header__1-right d-flex justify-content-end align-items-center">
-                        <div className="d-none d-xl-block mr-40">
+                        {/* <div className="d-none d-xl-block mr-40">
                            <div className="d-flex justify-content-end">
                               <div className="tp-it-header__main-cta">
                                  <span><i className="fas fa-envelope-open"></i> Support Email</span>
@@ -67,7 +67,7 @@ const Header = ({style_home_one}) => {
                               </div>
                            </div>
 
-                        </div>
+                        </div> */}
                            <Link href="/contact" className="tp-btn d-none d-xl-block tp-btn-hover">Get Quote<span>
                                  <i className="fal fa-long-arrow-right"></i>
                                  <i className="fal fa-long-arrow-right"></i>

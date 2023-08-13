@@ -101,7 +101,7 @@ const Slider = () => {
                     <div className="col-lg-6 d-none d-lg-block">
                       <div className="it-slider-img p-relative">
                         <img
-                          src="/assets/img/slider/it-slider-img.png"
+                          src="/assets/img/slider/slider-new.png"
                           alt="image-here"
                         />
                         <div className="it-slder-quite">{item.slder_quite}</div>
