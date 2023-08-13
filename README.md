@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Theme_Pure
 
-repo link 👇👇👇:
+website link 👇👇👇:
 
 ```bash
-https://github.com/ThemePure/gencio-next-js.git
+https://www.programming-agency.com
 
 ```
