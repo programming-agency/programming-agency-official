@@ -23,8 +23,10 @@
     "react-parallax-tilt": "^1.7.107",
     "react-type-animation": "^2.1.2",
     "react-use": "^17.4.0",
-    "sass": "^1.58.3",
     "swiper": "^9.0.5",
     "wowjs": "^1.1.3"
+  },
+  "devDependencies": {
+    "sass": "^1.65.1"
   }
 }
