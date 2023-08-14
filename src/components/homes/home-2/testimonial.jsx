@@ -5,73 +5,67 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const testimonial_data_home_two = [
   {
     id: 1,
-    img: "/assets/img/testimonial/testi-avata-1.png",
-    name: "River Craft",
-    title: "Founder, Romdon Co.",
+    img: "/assets/img/testimonial/mohoshinsera.webp",
+    name: "Mohoshin Sera",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ I just wanted to take a moment to recognize your outstanding work on the latest project. Your development skills and attention to detail truly made a difference in the final product. Excellent Coding Skills, Problem-Solving Abilities, Proactive Communication, Strong Team Player: ”
       </>
     ),
   },
   {
     id: 2,
-    img: "/assets/img/testimonial/testi-avata-3.png",
-    name: "Jayson Mahoney",
-    title: "Author, themepure Co.",
+    img: "https://flagpedia.net/data/flags/w1600/fr.png",
+    name: "D. Thomas",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ Good communication of this service, which was based on fixing a bug in React. They were quick to respond and helped me resolve the problem at hand. Couldn't ask for more. Many Thanks again for their work. Awesome :) ”
       </>
     ),
   },
   {
     id: 3,
-    img: "/assets/img/testimonial/testi-avata-4.png",
-    name: "Tushar N. Biswas",
-    title: "Leader, Fontend Co",
+    img: "/assets/img/testimonial/jadzalla.webp",
+    name: "Jad Zalla",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ Well, this is my go-to guy for matter Server and panel. Always fast and diligent! Cant ask for anything better. Thank you my brother for remaining true to yourself and always thriving to provide the best service to your clients. ”
       </>
     ),
   },
   {
     id: 4,
-    img: "/assets/img/testimonial/testi-avata-1.png",
-    name: "River Craft",
-    title: "Founder, Romdon Co.",
+    img: "/assets/img/testimonial/pro_wordsmiths.webp",
+    name: "Word Smiths",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ Was prompt at delivering the order. very satisfied with his service ”
       </>
     ),
   },
   {
     id: 5,
-    img: "/assets/img/testimonial/testi-avata-3.png",
-    name: "Jayson Mahoney",
-    title: "Author, themepure Co.",
+    img: "/assets/img/testimonial/shahjes.webp",
+    name: "Shahjes",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ Very good service. One of the most skillful and dedicated freelancers I ever got to work with. He goes above and beyond to make you happy. Will definitely work with him again. ”
       </>
     ),
   },
   {
     id: 6,
-    img: "/assets/img/testimonial/testi-avata-4.png",
-    name: "Tushar N. Biswas",
-    title: "Leader, Fontend Co",
+    img: "/assets/img/testimonial/vladismenko.webp",
+    name: "Vladis Menko",
+    title: "Client, Fiverr.com",
     des: (
       <>
-        “ Our award-winning US-based experts are available to help when you get
-        stuck anytime day or night here is ready. ”
+        “ It is easy to communicate with Mr. Hasan - English is fluent. He responds quickly and consistently to all my questions. What I really like is that you can depend on him to respond. He got the job done and He also makes helpful recommendations.  ”
       </>
     ),
   },
@@ -162,7 +156,7 @@ const Testimonial = () => {
                            <i className="fas fa-star"></i>
                            <i className="fas fa-star"></i>
                            <i className="fas fa-star"></i>
-                           <i className="fal fa-star"></i>
+                           <i className="fas fa-star"></i>
                         </div>
                         <div className="it-testimonial-box__review">
                            {item.des}
@@ -173,7 +167,7 @@ const Testimonial = () => {
                      </div>
                      <div className="tp-testimonial-reviewer d-flex align-items-center ml-40">
                         <div className="tesi-reviewer-avata mr-15">
-                           <img src={item.img} alt="them-pure" />
+                           <img style={{height: '60px', width: '60px', borderRadius: '100px'}} src={item.img} alt="them-pure" />
                         </div>
                         <div className="it-tesi-reviewer-name">
                            <h4 className="mb-5 vogue-text-color">{item.name}</h4>

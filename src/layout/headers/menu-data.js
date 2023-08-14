@@ -21,6 +21,13 @@ const menu_data = [
     link: "/shop",
   },
   {
+    id: 6,
+    mega_menu: false,
+    has_dropdown: false,
+    title: "Services",
+    link: "/service",
+  },
+  {
     id: 4,
     mega_menu: false,
     has_dropdown: false,
@@ -29,13 +36,6 @@ const menu_data = [
     link: "/team",
   },
 
-  {
-    id: 6,
-    mega_menu: false,
-    has_dropdown: false,
-    title: "Contact",
-    link: "/contact",
-  },
   {
     id: 7,
     mega_menu: false,

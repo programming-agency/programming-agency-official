@@ -3,14 +3,14 @@ import Tilt from "react-parallax-tilt";
 
 
  const about_home_two_content = {
-    sub_title: "Since From 2000",
+    sub_title: "Since From 2019",
     title: <> Obtaining Further IT <br /> By Make a Contact</>,
     des: <>Being employee-owned keeps us focused on the unique needs of our <br />
             users, and we wouldn't have it any other way. Our many
             security features <br />
             include Multi Factor Authentication, auto-enabled sFTP .</>,
-    author_img: "/assets/img/about/it-ab-avata.png",
-    author_name: "Alonso D. Cosdos",
+    author_img: "/assets/img/about/ba-nimur-hasan.png",
+    author_name: "Md N. Hasan",
     author_title: "Head Of Idea",
     author_des: <>Highly Tailored IT Design, Management & Support Services.
     It’s possible to simultaneously manage.</>,
@@ -53,7 +53,7 @@ const About = () => {
                   </p>
                   <div className="d-flex align-items-center">
                     <div className="it-about-avata">
-                      <img src={author_img} alt="author" />
+                      <img height={'70px'} src={author_img} alt="author" />
                     </div>
                     <div className="it-about-name">
                       <span>{author_title}</span>

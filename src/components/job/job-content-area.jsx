@@ -4,7 +4,7 @@ import React from 'react';
 
 const job_content  = {
     img: "/assets/img/job/job-cirile-logo.png",
-    title: "Gencio is hiring",
+    title: "Programming Agency is hiring",
     description: <>Join a multidisciplinary team of entrepreneurs, engineers and physicians at the forefront
                  <br /> of medical practice transformation and AI-augmented care.</>,
     btn_text : "apply now",

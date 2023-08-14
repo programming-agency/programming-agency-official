@@ -14,7 +14,7 @@ const MapArea = () => {
           ></iframe>
         </div>
         <div className="contact-map-img">
-          <img src="/assets/img/cta/contact-map-logo.png" alt="" />
+          {/* <img src="/assets/img/cta/contact-map-logo.png" alt="" /> */}
         </div>
       </div>
     </>

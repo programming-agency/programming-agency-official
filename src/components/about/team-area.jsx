@@ -24,7 +24,7 @@ const OurTeam = () => {
                     <div key={i} className="col-md-6 col-lg-4 col-xl-3 wow tpfadeUp">
                      <div className="ca-team-item mb-30">
                         <div className="ca-team-item__img ca-team-item-after w-img mb-35 fix">
-                           <img src={item.img} alt="" />
+                           <img style={{borderRadius: '10px'}} src={item.img} alt="" />
                            <div className="ca-team-item__img-social">
                               <a href="#"><i className="fab fa-facebook-f"></i></a>
                               <a href="#"><i className="fab fa-twitter"></i></a>

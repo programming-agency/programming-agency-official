@@ -8,7 +8,7 @@ const Shop = () => {
   return (
     <>
       <Header />
-      <BreadcrumbArea acive_menu="Terms" title="Terms & Conditions" />
+      <BreadcrumbArea acive_menu="Shop" title="Our Digital Products" />
       <ShopArea />
       <Footer tp_border={true} />
     </>

@@ -16,9 +16,12 @@ const TeamArea = () => {
                   </div>
                   <div
                     className="da-team-info"
-                    data-background="assets/img/team/da-deam-info-bg.png"
+                    // data-background="assets/img/team/da-deam-info-bg.png"
+                    // style={{
+                    //   backgroundImage: `url(/assets/img/team/da-deam-info-bg.png)`,
+                    // }}
                     style={{
-                      backgroundImage: `url(/assets/img/team/da-deam-info-bg.png)`,
+                      backgroundColor: 'white'
                     }}
                   >
                     <span>{item.title}</span>

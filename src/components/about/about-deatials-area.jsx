@@ -53,16 +53,16 @@ const AboutDeatialsArea = () => {
                   <div className="tp-ab-sv-tabs mb-30">
                      <ul className="nav nav-pills mb-30" id="pills-tab" role="tablist">
                         <li className="nav-item" role="presentation">
-                           <button tabIndex="-1" className="nav-link active" id="2000" data-bs-toggle="pill" data-bs-target="#pills-2000"
-                              type="button" role="tab" aria-controls="pills-2000" aria-selected="true">2000</button>
+                           <button tabIndex="-1" className="nav-link active" id="2019" data-bs-toggle="pill" data-bs-target="#pills-2019"
+                              type="button" role="tab" aria-controls="pills-2019" aria-selected="true">2019</button>
                         </li>
                         <li className="nav-item" role="presentation">
-                           <button tabIndex="-1" className="nav-link" id="2010" data-bs-toggle="pill" data-bs-target="#pills-2010"
-                              type="button" role="tab" aria-controls="pills-2010" aria-selected="false">2010</button>
+                           <button tabIndex="-1" className="nav-link" id="2020" data-bs-toggle="pill" data-bs-target="#pills-2020"
+                              type="button" role="tab" aria-controls="pills-2020" aria-selected="false">2020</button>
                         </li>
                         <li className="nav-item" role="presentation">
-                           <button tabIndex="-1" className="nav-link" id="2018" data-bs-toggle="pill" data-bs-target="#pills-2018"
-                              type="button" role="tab" aria-controls="pills-2018" aria-selected="false">2018</button>
+                           <button tabIndex="-1" className="nav-link" id="2021" data-bs-toggle="pill" data-bs-target="#pills-2021"
+                              type="button" role="tab" aria-controls="pills-2021" aria-selected="false">2021</button>
                         </li>
                         <li className="nav-item" role="presentation">
                            <button tabIndex="-1" className="nav-link" id="2022" data-bs-toggle="pill" data-bs-target="#pills-2022"

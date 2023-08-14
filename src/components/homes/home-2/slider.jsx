@@ -13,7 +13,7 @@ const slider_data = [
     des: <>We’ve always known that for businesses large and small, IT
     will <br /> can be a real challenge to manage.</>,
     btn_text: "Free Consultation",
-    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Mixodis C. <i>- Head of Idea </i> </span></>
+    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Md N. Hasan <i>- Head of Idea </i> </span></>
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const slider_data = [
     des: <>We’ve always known that for businesses large and small, IT
     will <br /> can be a real challenge to manage.</>,
     btn_text: "Free Consultation",
-    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Mixodis C. <i>- Head of Idea </i> </span></>
+    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Md N. Hasan <i>- Head of Idea </i> </span></>
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const slider_data = [
     des: <>We’ve always known that for businesses large and small, IT
     will <br /> can be a real challenge to manage.</>,
     btn_text: "Free Consultation",
-    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Mixodis C. <i>- Head of Idea </i> </span></>
+    slder_quite: <><b> “ Simplicity is key to success for <br /> growing your business ” </b> <span> Md N. Hasan <i>- Head of Idea </i> </span></>
   },
 ];
 
