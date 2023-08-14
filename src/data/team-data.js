@@ -28,8 +28,8 @@ const team_data = [
 
     {
         id: 4,
-        img: "/assets/img/team/ca-team-1.jpg",
-        name: "Asonio D. Dowson",
+        img: "/assets/img/team/ca-team-1.png",
+        name: "Md N. Hasan",
         title: "Founder",
         delay: ".3s",
 

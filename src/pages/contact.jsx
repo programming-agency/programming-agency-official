@@ -5,7 +5,7 @@ import Contact from "../components/contact";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Contact"} />
+      <SEO pageTitle={"Programming Agency  -  Contact"} />
       <Contact />
     </>
   );

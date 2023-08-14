@@ -5,7 +5,7 @@ import AboutMe from "../components/about-me";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - About Me"} />
+      <SEO pageTitle={"Programming Agency  -  About Me"} />
       <AboutMe />
     </>
   );

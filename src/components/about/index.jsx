@@ -7,6 +7,7 @@ import AbFactArea from "./ab-fact-area";
 import AboutDeatialsArea from "./about-deatials-area";
 import CtaAre from "./cta-are";
 import TeamArea from "./team-area";
+import FeatureArea from "./feature-area";
 
 const About = () => {
   return (
@@ -16,6 +17,7 @@ const About = () => {
       <AboutArea style_about={true} />
       <AbFactArea />
       <TeamArea />
+      <FeatureArea />
       <AboutDeatialsArea />
       <CtaAre />
       <Footer />

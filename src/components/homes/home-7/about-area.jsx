@@ -6,10 +6,10 @@ const about_content = {
     img_1: "/assets/img/about/law--aout-1.jpg",
     img_2: "/assets/img/about/law-about-2.jpg",
     img_3: "/assets/img/about/law-icon.png",
-    img_4: "/assets/img/about/it-ab-avata.png",
+    img_4: "/assets/img/about/ba-nimur-hasan.png",
     img_5: "/assets/img/about/law-signature.png", 
 
-    left_title: "Good Expertise In Law",
+    left_title: "Good Expertise In Web & Mobile",
     title: <>about our lawyer <br /> firm agency</>,
     about_P_title: <>We help you build and  grow your business.</>,
     des: <>Lawyer's content marketing strategy should include adding & updating your most important and high-performing. Certain circumstances seds
@@ -71,7 +71,7 @@ const AboutArea = ({style_about}) => {
                                             <img src="/assets/img/about/law-sm-img-3.png" alt="" />
                                         </div>
                                         <div className="law-icon-info">
-                                            <span><b>30</b>Years Experience</span>
+                                            <span><b>05</b>Years Experience</span>
                                         </div>
                                     </div>
                                     :
@@ -103,11 +103,11 @@ const AboutArea = ({style_about}) => {
                                     <div className="col-sm-8 col-12 wow tpfadeUp">
                                         <div className="law-ab-avata-box d-flex align-items-center">
                                             <div className="law-ab-avata mr-20">
-                                                <img src={img_4} alt="" />
+                                                <img height={'70px'} src={img_4} alt="" />
                                             </div>
                                             <div className="law-ab-author-head">
                                                 <span className={`${style_about && "cornblue-text-color"}`}>Head Of Idea</span>
-                                                <h4 className={`law-ab-auther-name ${style_about && "text-black"}`}>Alonso D. Cosdos</h4>
+                                                <h4 className={`law-ab-auther-name ${style_about && "text-black"}`}>Md N. Hasan</h4>
                                             </div>
                                         </div>
     

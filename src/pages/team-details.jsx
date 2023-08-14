@@ -5,7 +5,7 @@ import TeamDetails from "../components/team-details";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Team Details"} />
+      <SEO pageTitle={"Programming Agency  -  Team Details"} />
       <TeamDetails />
     </>
   );

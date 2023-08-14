@@ -4,26 +4,26 @@ import React from 'react';
 const about_feature_data = [
     {
         id: 1,
-        count: 328,
+        count: 68,
         title: "Successful projects",
         description: <>You every can't thing seed subdue subdue light female.</>,
     },
     {
         id: 2,
-        count: 522,
-        title: "Years of exeperience",
+        count: 15,
+        title: "Full Stack Projects",
         description: <>You every can't thing seed subdue subdue light female.</>,
     },
     {
         id: 3,
-        count: 1020,
-        title: "Cost of savings",
+        count: 30,
+        title: "Mobile App",
         description: <>You every can't thing seed subdue subdue light female.</>,
     },
     {
         id: 4,
-        count: 256,
-        title: "Email leads generated",
+        count: 23,
+        title: "Digital Products",
         description: <>You every can't thing seed subdue subdue light female.</>,
     },
 ]

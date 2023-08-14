@@ -5,7 +5,7 @@ import Terms from "../components/terms";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Terms"} />
+      <SEO pageTitle={"Programming Agency  -  Terms"} />
       <Terms />
     </>
   );

@@ -50,10 +50,10 @@ const HeaderTwo = () => {
                <div className="row align-items-center">
                   <div className="col-lg-3 col-3">
                      <div className="logo">
-                        <Link href="/"><img style={{height: '100px', padding: '22px'}} src="/assets/img/logo/Logo-long.png" alt="logo" /></Link>
+                        <Link href="/"><img style={{height: '100px', padding: '14px'}} src="/assets/img/logo/Logo-long.png" alt="logo" /></Link>
                      </div>
                   </div>
-                  <div className="col-xl-6 d-none d-xl-block">
+                  <div className="col-xl-7 d-none d-xl-block">
                      <div className="main-menu it-menu">
                         <nav id="mobile-menu">
                             <NavMenu />
@@ -61,11 +61,11 @@ const HeaderTwo = () => {
                         </nav>
                      </div>
                   </div>
-                  <div className="col-xl-3 d-none d-xl-block">
+                  <div className="col-xl-2 d-none d-xl-block">
                      <div className="d-flex justify-content-end">
                         <div className="tp-it-header__main-cta">
-                           <span><i className="fas fa-envelope-open"></i> Support Email</span>
-                           <b style={{fontSize: '16px'}}><a href="mailto:info@gencio.com">info@programming-agency.com</a></b>
+                           <span><i className="fas fa-phone"></i> Call US</span>
+                           <b style={{fontSize: '16px'}}><a href="callto:+8801518919421">+880 15189 19421</a></b>
                         </div>
                      </div>
 

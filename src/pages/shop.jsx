@@ -5,7 +5,7 @@ import Shop from "../components/shop";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Shop"} />
+      <SEO pageTitle={"Programming Agency  -  Shop"} />
       <Shop />
     </>
   );

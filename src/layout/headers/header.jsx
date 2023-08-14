@@ -43,7 +43,7 @@ const Header = ({style_home_one}) => {
             <div className="container-fluid">
                <div className="mega-menu-wrapper">
                   <div className="row align-items-center">
-                     <div className="col-xxl-4 col-xl-2 col-6">
+                     <div className="col-xxl-4 col-xl-3 col-6">
                         <div className="logo border-right">
                            <Link href="/">
                               <img style={{height: '100px', padding: '20px'}} src="/assets/img/logo/Logo-long.png" alt="logo" />
@@ -57,7 +57,7 @@ const Header = ({style_home_one}) => {
                            </nav>
                         </div>
                      </div>
-                     <div className="col-xxl-2 col-xl-3 d-xl-block col-md-6 col-6">
+                     <div className="col-xxl-2 col-xl-2 d-xl-block col-md-6 col-6">
                         <div className="tp-header__1-right d-flex justify-content-end align-items-center">
                         {/* <div className="d-none d-xl-block mr-40">
                            <div className="d-flex justify-content-end">

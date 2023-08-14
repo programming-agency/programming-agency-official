@@ -26,7 +26,7 @@ const menu_data = [
     has_dropdown: false,
     pages:true,
     title: "Our Team",
-    link: "#",
+    link: "/team",
   },
 
   {
@@ -41,7 +41,7 @@ const menu_data = [
     mega_menu: false,
     has_dropdown: false,
     title: "Help & Support",
-    link: "/contact",
+    link: "/help",
   },
 ];
 export default menu_data;

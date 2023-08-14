@@ -5,7 +5,7 @@ import JobDetails from "../components/job-details";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Job Details"} />
+      <SEO pageTitle={"Programming Agency  -  Job Details"} />
       <JobDetails />
     </>
   );

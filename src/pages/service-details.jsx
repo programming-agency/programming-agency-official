@@ -5,7 +5,7 @@ import ServiceDetails from "../components/service-details";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Service Details"} />
+      <SEO pageTitle={"Programming Agency  -  Service Details"} />
       <ServiceDetails />
     </>
   );

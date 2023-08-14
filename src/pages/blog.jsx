@@ -5,7 +5,7 @@ import Blog from "../components/blog-pages/blog";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - blog"} />
+      <SEO pageTitle={"Programming Agency  -  blog"} />
       <Blog />
     </>
   );

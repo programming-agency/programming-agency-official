@@ -5,7 +5,7 @@ import Job from "../components/job";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Gencio - Job"} />
+      <SEO pageTitle={"Programming Agency  -  Job"} />
       <Job />
     </>
   );
