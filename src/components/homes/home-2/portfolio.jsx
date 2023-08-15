@@ -6,26 +6,26 @@ import React from 'react';
 const portfolio_data = [
     {
         id: 1, 
-        img: "/assets/img/portfolio/it-pt-1.jpg",
+        img: "/assets/img/portfolio/real-eastet.png",
         logo: "/assets/img/portfolio/logo/pt-logo-1.png", 
-        sub_title: "Cyber Security, IT Solution ",
-        title: <>Currency check and easier tracking system</>,
+        sub_title: "Ecommerce, Website Development",
+        title: <>Real Estate Project</>,
         delay: ".3s"
     },
     {
         id: 2, 
-        img: "/assets/img/portfolio/it-pt-2.jpg",
-        logo: "/assets/img/portfolio/logo/pt-logo-2.png", 
-        sub_title: "Cyber Security, IT Solution ",
-        title: <>Currency check and easier tracking system</>,
+        img: "/assets/img/portfolio/real-eastet.png",
+        logo: "/assets/img/portfolio/logo/pt-logo-1.png", 
+        sub_title: "Ecommerce, Website Development",
+        title: <>Real Estate Project</>,
         delay: ".4s"
     },
     {
         id: 3, 
-        img: "/assets/img/portfolio/it-pt-3.jpg",
-        logo: "/assets/img/portfolio/logo/pt-logo-3.png", 
-        sub_title: "Cyber Security, IT Solution ",
-        title: <>Currency check and easier tracking system</>,
+        img: "/assets/img/portfolio/real-eastet.png",
+        logo: "/assets/img/portfolio/logo/pt-logo-1.png", 
+        sub_title: "Ecommerce, Website Development",
+        title: <>Real Estate Project</>,
         delay: ".5s"
     },    
 
@@ -42,7 +42,7 @@ const Portfolio = () => {
                      <div className="tp-section text-center">
                         <span className="tp-section__subtitle vogue-text-color white-bg mb-15 wow tpfadeUp"><i className="before-border"></i>
                            Portfolio <i className="after-border"></i></span>
-                        <h2 className="tp-section__title vogue-text-color wow tpfadeUp" data-wow-delay=".3s">Eliminate IT Compitators</h2>
+                        <h2 className="tp-section__title vogue-text-color wow tpfadeUp" data-wow-delay=".3s">Our Demo Pojects</h2>
                      </div>
                   </div>
                </div>
@@ -53,11 +53,11 @@ const Portfolio = () => {
                   <div key={i} className="col-lg-6 col-xl-4">
                   <div className="tp-porffolio-wrapper mb-30" >
                      <div className="it-portfolio-item wow tpfadeUp" data-wow-delay={item.delay}>
-                        <div className="it-portfolio-item__thumb w-img p-relative">
+                        <div className="it-portfolio-item__thumb w-img border">
                            <img src={item.img} alt={item.title} />
-                           <div className="it-portfolio-item__thumb-logo">
+                           {/* <div className="it-portfolio-item__thumb-logo">
                               <img src={item.logo} alt={item.title} />
-                           </div>
+                           </div> */}
                         </div>
                         <div className="it-portfolio-item__content it-pt-border">
                            <div className="it-portfolio-item__meta">

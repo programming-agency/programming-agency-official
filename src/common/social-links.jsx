@@ -56,10 +56,10 @@ const social_links_home_two = [
     name: "Twitter",
   },
   {
-    link: "https://www.behance.com/",
+    link: "callto: +8801518919421",
     target: "_blank",
-    icon: "fab fa-behance",
-    name: "Behance",
+    icon: "fab fa-whatsapp",
+    name: "WhatsApp",
   },
   {
     link: "https://www.youtube.com/@ProgrammingAgency",

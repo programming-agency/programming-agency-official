@@ -34,10 +34,7 @@ const HeaderTwo = () => {
                            </ul>
                         </div>
                         <div className="tp-it-header__top-right-lang">
-                           <span>English <i className="fal fa-angle-down"></i></span>
-                           <ul>
-                            <Language />
-                           </ul>
+                           <span>English</span>                          
                         </div>
                      </div>
                   </div>
@@ -50,7 +47,7 @@ const HeaderTwo = () => {
                <div className="row align-items-center">
                   <div className="col-lg-3 col-3">
                      <div className="logo">
-                        <Link href="/"><img style={{height: '100px', padding: '14px'}} src="/assets/img/logo/Logo-long.png" alt="logo" /></Link>
+                        <Link href="/"><img style={{height: '90px', padding: '15px'}} src="/assets/img/logo/Logo-long.png" alt="logo" /></Link>
                      </div>
                   </div>
                   <div className="col-xl-7 d-none d-xl-block">

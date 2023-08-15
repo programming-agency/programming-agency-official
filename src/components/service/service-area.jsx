@@ -16,7 +16,7 @@ const ServiceArea = () => {
               >
                 <div className="it-service__item mb-30 text-center">
                   <div className="it-servicce__item-img mb-35">
-                    <img src={item.icon} alt="them-pure" />
+                    <img style={{height: '120px'}} src={item.icon} alt="them-pure" />
                   </div>
                   <h3 className="it-service__item-title mb-20">
                     <a href="#">{item.title}</a>

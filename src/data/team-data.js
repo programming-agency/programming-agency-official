@@ -30,7 +30,7 @@ const team_data = [
         id: 4,
         img: "/assets/img/team/md-nimur-hasan.png",
         name: "Md N. Hasan",
-        title: "Founder",
+        title: "Founder & CEO",
         delay: ".3s",
 
     },
@@ -61,19 +61,19 @@ const team_data = [
 
     // team page  01
     {
-        id: 8,
-        img: "/assets/img/team/da-team-1.jpg",
-        name: "Mixlox D. Jhonson",
-        title: "Head Of Idea",
-        delay: ".5s",
+        id: 4,
+        img: "/assets/img/team/md-nimur-hasan.png",
+        name: "Md N. Hasan",
+        title: "Founder & CEO",
+        delay: ".3s",
 
     },
     {
-        id: 9,
-        img: "/assets/img/team/da-team-2.jpg",
-        name: "Salim D. Jhonson",
-        title: "Head Of Idea",
-        delay: ".6s",
+        id: 5,
+        img: "/assets/img/team/md-hashebur-rahman.png",
+        name: "Md H. Rahman",
+        title: "Head Of Devlopment",
+        delay: ".4s",
 
     },
     {

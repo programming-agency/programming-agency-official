@@ -18,7 +18,7 @@ const HomeTwo = () => {
       <Slider />
       <Service />
       <About />
-      <Brand style_2={true} />
+      {/* <Brand style_2={true} /> */}
       <Portfolio />
       <Testimonial />
       <CallToAction />

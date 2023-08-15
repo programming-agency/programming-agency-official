@@ -117,13 +117,37 @@ const service_data = [
     },
 
 
-    // service 01 page
+    // service 01 page [ used ]
+    {
+        id: 16,
+        icon: "/assets/img/icons/app-development.png",
+        link: "#",
+        img: "/assets/img/icons/app-development.png",
+        title: "Native Mobile Application Development",
+        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
+        counter: "", 
+        delay: ".4s",
+        data_aos: "fade-up",
+        duration: "2500",
+    }, 
+    {
+        id: 17,
+        icon: "/assets/img/icons/web-development.png",
+        link: "#",
+        img: "/assets/img/icons/web-development.png",
+        title: "Website Development",
+        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
+        counter: "", 
+        delay: ".4s",
+        data_aos: "fade-up",
+        duration: "3000",
+    }, 
     {
         id: 12,
-        icon: "/assets/img/icons/service-icons-4.png",
+        icon: "/assets/img/icons/server.png",
         link: "#",
-        img: "/assets/img/icons/service-icons-4.png",
-        title: "Backup & Recovery",
+        img: "/assets/img/icons/server.png",
+        title: "Server Setup & Maintenance",
         des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
         counter: "", 
         delay: ".4s",
@@ -167,30 +191,7 @@ const service_data = [
         data_aos: "fade-up",
         duration: "2500",
     },
-    {
-        id: 16,
-        icon: "/assets/img/icons/service-icons-8.png",
-        link: "#",
-        img: "/assets/img/icons/service-icons-8.png",
-        title: "Website Development",
-        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
-        counter: "", 
-        delay: ".4s",
-        data_aos: "fade-up",
-        duration: "2500",
-    }, 
-    {
-        id: 17,
-        icon: "/assets/img/icons/service-icons-9.png",
-        link: "#",
-        img: "/assets/img/icons/service-icons-9.png",
-        title: "Website Development",
-        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
-        counter: "", 
-        delay: ".4s",
-        data_aos: "fade-up",
-        duration: "3000",
-    }, 
+    
 
     // service page 02
     {
