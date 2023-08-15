@@ -28,7 +28,7 @@ const team_data = [
 
     {
         id: 4,
-        img: "/assets/img/team/ca-team-1.png",
+        img: "/assets/img/team/md-nimur-hasan.png",
         name: "Md N. Hasan",
         title: "Founder",
         delay: ".3s",
@@ -36,9 +36,9 @@ const team_data = [
     },
     {
         id: 5,
-        img: "/assets/img/team/ca-team-2.jpg",
-        name: "Berat Battle",
-        title: "Head Of Design",
+        img: "/assets/img/team/md-hashebur-rahman.png",
+        name: "Md H. Rahman",
+        title: "Head Of Devlopment",
         delay: ".4s",
 
     },

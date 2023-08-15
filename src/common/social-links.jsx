@@ -62,13 +62,13 @@ const social_links_home_two = [
     name: "Behance",
   },
   {
-    link: "https://www.youtube.com/",
+    link: "https://www.youtube.com/@ProgrammingAgency",
     target: "_blank",
     icon: "fab fa-youtube",
     name: "Youtube",
   },
   {
-    link: "https://www.linkedin.com/en/",
+    link: "https://www.linkedin.com/company/programming-agency/",
     target: "_blank",
     icon: "fab fa-linkedin",
     name: "Linkedin"
