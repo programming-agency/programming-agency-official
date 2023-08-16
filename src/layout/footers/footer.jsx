@@ -40,7 +40,7 @@ const footer_links = [
 ]
 
 const footer_content ={
-   footer_logo: "/assets/img/logo/logo-long.png",
+   footer_logo: "/assets/img/logo/programming-agency-logo-long.png",
    about: "About Us",
    about_des: <>Your goals are individual. We believe business advice should be too, so we have to help your business thrive in this work
    environment situation.</>,
@@ -64,7 +64,7 @@ const Footer = ({tp_border}) => {
                   <div className="col-6">
                     <div className="bs-footer__top-logo">
                       <a href="#">
-                        <img style={{height: '60px'}} src={'/assets/img/logo/logo-long.png'} alt="brand-logo" />
+                        <img style={{height: '60px'}} src={'/assets/img/logo/programming-agency-logo-long'} alt="brand-logo" />
                       </a>
                     </div>
                   </div>

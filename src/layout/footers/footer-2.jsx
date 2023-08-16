@@ -6,7 +6,7 @@ import CommonFooter, { FooterCopyRight } from './common-footer';
 
 
 const foter_two_content = {
-    logo: "/assets/img/logo/logo-long.png",
+    logo: "/assets/img/logo/programming-agency-logo-long.png",
     description: <>Your goals are individual. We believe
     business advice should be too, so we have
     to help your business thrive in this work
