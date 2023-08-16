@@ -16,14 +16,14 @@ const Sidebar = ({isActive, setIsActive}) => {
                     <span><i className="fal fa-times"></i></span>
                 </div>
                 <div className="tp-offcanvas__logo mb-50">
-                    <Link href="/"><img src="/assets/img/logo/black-logo.png" alt="sticky-logo" /></Link>
+                    <Link href="/"><img style={{height: '70px'}} src="/assets/img/logo/logo-long.png" alt="sticky-logo" /></Link>
                 </div>
                 <p> We bring your ideas to better product. Base in NYC</p>
                 <div className="tp-offcanvas__social">
-                    <span> <a href="#"><i className="fab fa-facebook-f"></i></a></span>
-                    <span> <a href="#"><i className="fab fa-twitter"></i></a></span>
-                    <span> <a href="#"><i className="fab fa-behance"></i></a></span>
-                    <span> <a href="#"><i className="fab fa-youtube"></i></a></span>
+                    <span> <a target='_blank' href="https://www.facebook.com/programming.agency23/"><i className="fab fa-facebook-f"></i></a></span>
+                    <span> <a target='_blank' href="https://twitter.com/Programm_agency"><i className="fab fa-twitter"></i></a></span>
+                    <span> <a target='_blank' href="callto: +8801518919421"><i className="fab fa-whatsapp"></i></a></span>
+                    <span> <a target='_blank' href="https://www.linkedin.com/company/programming-agency/"><i className="fab fa-linkedin"></i></a></span>
                 </div>
             </div>
             <div className="tp-offcanvas__widget mb-40 d-none d-xl-block">

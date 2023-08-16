@@ -40,7 +40,7 @@ const footer_links = [
 ]
 
 const footer_content ={
-   footer_logo: "/assets/img/logo/black-logo.png",
+   footer_logo: "/assets/img/logo/logo-long.png",
    about: "About Us",
    about_des: <>Your goals are individual. We believe business advice should be too, so we have to help your business thrive in this work
    environment situation.</>,

@@ -50,7 +50,7 @@ const social_links_home_two = [
     name: "Facebook",
   },
   {
-    link: "http://twitter.com",
+    link: "https://twitter.com/Programm_agency",
     target: "_blank",
     icon: "fab fa-twitter",
     name: "Twitter",

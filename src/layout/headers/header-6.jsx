@@ -24,7 +24,7 @@ const HeaderSix = () => {
                   <div className="logo">
                     <Link href="/">
                       <img
-                        src="/assets/img/logo/black-logo-2.png"
+                        src="/assets/img/logo/logo-long.png"
                         alt="theme-pure"
                       />
                     </Link>
