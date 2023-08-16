@@ -26,14 +26,14 @@ const Service = () => {
             </div>
           </div>
           <div className="row it-sv-counter">
-            {service_data.slice(0, 3).map((item, i) => (
+            {service_data.slice(11, 17).map((item, i) => (
               <div key={i} className="col-lg-4 col-md-6">
                 <div
                   className="it-service__item mb-30 text-center wow tpfadeUp"
                   data-wow-delay=".3s"
                 >
                   <div className="it-servicce__item-img mb-35">
-                    <img src={item.img} alt="image-here" />
+                    <img style={{height:'100px'}} src={item.img} alt="image-here" />
                   </div>
                   <h3 className="it-service__item-title mb-20">
                     <Link href={item.link}>{item.title}</Link>

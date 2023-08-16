@@ -143,6 +143,18 @@ const service_data = [
         duration: "3000",
     }, 
     {
+        id: 15,
+        icon: "/assets/img/icons/web-design.png",
+        link: "#",
+        img: "/assets/img/icons/web-design.png",
+        title: "UI & UX Design",
+        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
+        counter: "", 
+        delay: ".4s",
+        data_aos: "fade-up",
+        duration: "2500",
+    },
+    {
         id: 12,
         icon: "/assets/img/icons/server.png",
         link: "#",
@@ -154,7 +166,18 @@ const service_data = [
         data_aos: "",
         duration: "",
     },
-
+    {
+        id: 18,
+        icon: "/assets/img/icons/digital-campaign.png",
+        link: "#",
+        img: "/assets/img/icons/digital-campaign.png",
+        title: "Digital Marketing",
+        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
+        counter: "", 
+        delay: ".4s",
+        data_aos: "fade-up",
+        duration: "3000",
+    },
     {
         id: 13,
         icon: "/assets/img/icons/service-icons-5.png",
@@ -179,33 +202,11 @@ const service_data = [
         data_aos: "",
         duration: "",
     },
-    {
-        id: 15,
-        icon: "/assets/img/icons/service-icons-7.png",
-        link: "#",
-        img: "/assets/img/icons/service-icons-7.png",
-        title: "UI & UX Design",
-        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
-        counter: "", 
-        delay: ".4s",
-        data_aos: "fade-up",
-        duration: "2500",
-    },
+    
     
 
     // service page 02
-    {
-        id: 18,
-        icon: "/assets/img/services/icon/service-icon-1.png",
-        link: "#",
-        img: "/assets/img/services/icon/service-icon-1.png",
-        title: "Digital Marketing",
-        des: <>Our typical customer doesn’t want to be distracted by IT Services that don’t add direct value to their customers.</>,
-        counter: "", 
-        delay: ".4s",
-        data_aos: "fade-up",
-        duration: "3000",
-    },
+    
     {
         id: 19,
         icon: "/assets/img/services/icon/service-icon-2.png",
