@@ -64,7 +64,7 @@ const Footer = ({tp_border}) => {
                   <div className="col-6">
                     <div className="bs-footer__top-logo">
                       <a href="#">
-                        <img style={{height: '60px'}} src={'/assets/img/logo/programming-agency-logo-long'} alt="brand-logo" />
+                        <img style={{height: '60px'}} src={'/assets/img/logo/programming-agency-logo-long.png'} alt="brand-logo" />
                       </a>
                     </div>
                   </div>
